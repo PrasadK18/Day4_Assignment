@@ -9,8 +9,6 @@ public class EmployeeWageComputation {
                 "Program on Master Branch");
         Random num=new Random();
         int present = num.nextInt(2);
-//        System.out.println(present);
-
         if(present==1){
             System.out.println("Employee is present");
         }else{
